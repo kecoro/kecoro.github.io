@@ -1,17 +1,17 @@
-title:            jegu.co
-tagline:          Just another Jekyll blog
-description:      Share what jegu know about
+title:            kecoro.com
+tagline:          Code till reach heaven
+description:      Developer team who love music
 #Comment out url when working locally to resolve base urls correctly
 url: 
 
 # Owner/author information
 owner:
-  name:           Jegu
+  name:           Kecoro
   avatar:         avatar.png
   bio:            "Code & Music"
-  email:          yanuar@waskito.me
-  twitter:        jeguwaskito
-  github:         waskito
+  email:          kecoro@gmail.com
+  twitter:        kecoro
+  github:         kecoro
   instagram:      
   dribbble:       
   disqus:         
@@ -24,14 +24,11 @@ links:
   - title: About
     url: /about
   - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Jegu Who?
-    url: http://yanuar.waskito.me
+    url: https://github.com/kecoro
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Indonesia/Jakarta
 future:      true
 pygments:    true
 markdown:    kramdown

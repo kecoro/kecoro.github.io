@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Recent Posts"
+title: Kecoro - Code till reach heaven
 tags: [Jekyll, theme, responsive, blog, template]
 image:
   feature: typewriter.jpg
